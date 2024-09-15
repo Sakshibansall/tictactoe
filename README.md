@@ -33,6 +33,6 @@ author - sakshi bansal ra
 11.unmodified = unchanged means change nahi kiya humne.
 
 12.commit=record of change
-<!--sytanx= (git commit -m "user requirement useful message should be added") means it will show on original github -->
+<!--sytanx= (git commit -m "user requirement useful message should be added") m -->
 
 38 25
