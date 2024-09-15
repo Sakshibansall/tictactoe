@@ -35,4 +35,15 @@ author - sakshi bansal ra
 12.commit=record of change
 <!--sytanx= (git commit -m "user requirement useful message should be added") m -->
 
-38 25
+INIT COMMAND
+1.init command= create a new git repositry.
+
+2.git remote add origin <link>
+<!-- git remote add means adding remote add kurna chahte h and call it origin with link -->
+
+3.git remote -v= to verify remote
+
+4.git branch=to check branch 
+<!-- means hum konse branch p h -->
+
+5.git branch -M main=to rename branch
