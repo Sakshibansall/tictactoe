@@ -37,6 +37,7 @@ author - sakshi bansal ra
 
 INIT COMMAND
 1.init command= create a new git repositry.
+<!-- means new folder in terminal -->
 
 2.git remote add origin <link>
 <!-- git remote add means adding remote add kurna chahte h and call it origin with link -->
