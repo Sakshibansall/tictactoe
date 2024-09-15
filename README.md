@@ -2,7 +2,7 @@
 this is my first javascript game<br>
 author - sakshi bansal ra
 
-1.git push origin main
+1.git push origin main=(publish it on remote area )
 
 2.Add= it means adds new or changed files in your working directory to the git staging area.
  <!-- (git add filename or. (means all changed at once)) -->
