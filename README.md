@@ -50,11 +50,13 @@ INIT COMMAND
 5.git branch -M main=to rename branch
 <!-- for shortcut u can once write git push -u origin main an dthen u just have to write git push -->
 6.git checkout branch name
--<!-- akk branch s dsuri branch m jana -->
--
--7.git checkout -b branch name=to create new branch
--
--8.git branch -d branchname=to delete the branch
+<!-- akk branch s dsuri branch m jana -->
+
+7.git checkout -b branch name=to create new branch
+
+8.git branch -d branchname=to delete the branch
+
+
 
 Meriging code
 1.git diff branch name=comparing commits branches , files and more.
