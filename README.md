@@ -47,3 +47,4 @@ INIT COMMAND
 <!-- means hum konse branch p h -->
 
 5.git branch -M main=to rename branch
+<!-- for shortcut u can once write git push -u origin main an dthen u just have to write git push -->
