@@ -1,4 +1,4 @@
-# tictactoe
+# Github
 this is my first javascript game<br>
 author - sakshi bansal ra
 
